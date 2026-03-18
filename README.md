@@ -18,6 +18,8 @@ Les créateurs de contenus, peuvent simplement utiliser iXiMAKER "mini" pour gé
 ## Mode développeur
 Le code source C# pour Unity 3D gère l'interprétation des contenus iXi au sein d'Unity 3D.  
 Il simplifie sont intégration et son utilisation.
+### Prérequis
+- 🗃️ iXi-CODE (Code source C# pour unity)
 ### Prérequis technique conseillé
 - 📦 Unity (6000.3.8f1)
   - Universal Render Pipeline (17.3.0) > Création de textures
@@ -25,5 +27,14 @@ Il simplifie sont intégration et son utilisation.
   - KTX for Unity (3.6.3) > Import des textures GLTF/GLB
   - Newtonsoft Json > Serialisation / Déserialisation Json
   - Sentis (2.5.0) > Processeur de voix (ONNX / IA)
+  - Pipper
   - SharpZipLib (1.4.1) > Import de fichier ZIP
-- 🗃️ iXi-CODE (Code source C# pour unity)  
+  > **Pour la création d'un player VR/XR, ajouter les packages suivants :**
+  >> -  AR Foundation (6.4.1)
+  >> -  Google AR Core XR Plugin (6.3.3)
+  >> -  OpenXR plugin (1.16.1)
+  >> -  Unity OpenXR Meta (2.4.0) (Pour Quest 3 et 3s) / PICO Unity OpenXR SDK  (Pour Pico 4 et 4 Ultra)
+  >> -  XR Composition Layers (2.3.0)
+  >> -  XR Core Utilities (2.5.3)
+  >> -  XR Hands (1.7.3)
+  >> -  XR Interaction Toolkit (3.3.1)
