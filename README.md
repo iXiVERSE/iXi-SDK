@@ -12,17 +12,18 @@ Les créateurs de contenus, peuvent simplement utiliser iXiMAKER "mini" pour gé
 ### Prérequis
 - **✨ iXiMAKER "mini" Work** (pour les process)
 - **✨ iXiMAKER "mini" Learn** (pour les quizz)
-- **🥽 iXiWORK** : le player XR pour Meta Quest3/3s ou Pico Ultra
+- **🥽 iXiWORK** : le player XR gratuit pour Meta Quest3/3s et Pico Ultra
 - **🖼️ Vos médias (images / Audio / Modèles 3D) pour vos contenus
-> ℹ️ Vous pouvez [télécharger la version gratuite d'iXiWORK ici](https://ixiverse.com)👈
+> ℹ️ Vous pouvez [télécharger la version licenciée **gratuite** d'iXiWORK ici](https://ixiverse.com)👈
 ## Mode développeur
-Le code source pour Unity 3D gère l'interprétation des contenus iXi au sein d'Unity 3D.  
+Le code source C# pour Unity 3D gère l'interprétation des contenus iXi au sein d'Unity 3D.  
 Il simplifie sont intégration et son utilisation.
 ### Prérequis technique conseillé
-- Unity (6000.3.8f1)
+- 📦 Unity (6000.3.8f1)
   - Universal Render Pipeline (17.3.0) (Conversion des textures GLTF)
   - Unity glTFast (6.14.1) > Import de fichiers 3D au format GLTF/GLB
   - KTX for Unity (3.6.3) > Import des textures GLTF/GLB
   - Newtonsoft Json > Serialisation / Déserialisation Json
   - Sentis (2.5.0) > Processeur de voix (ONNX / IA)
   - SharpZipLib (1.4.1) > Import de fichier ZIP
+- 📁iXi-CODE (Code source C# pour unity)
