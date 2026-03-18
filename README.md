@@ -13,7 +13,7 @@ Les créateurs de contenus, peuvent simplement utiliser iXiMAKER "mini" pour gé
 - **✨ iXiMAKER "mini" Work** (pour les process)
 - **✨ iXiMAKER "mini" Learn** (pour les quizz)
 - **🥽 iXiWORK** : le player XR gratuit pour Meta Quest3/3s et Pico Ultra
-- **🖼️ Vos médias (images / Audio / Modèles 3D) pour vos contenus
+- **🖼️ Vos médias** (images / Audio / Modèles 3D) pour vos contenus
 > ℹ️ Vous pouvez [télécharger la version licenciée **gratuite** d'iXiWORK ici](https://ixiverse.com)👈
 ## Mode développeur
 Le code source C# pour Unity 3D gère l'interprétation des contenus iXi au sein d'Unity 3D.  
