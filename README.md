@@ -20,10 +20,10 @@ Le code source C# pour Unity 3D gère l'interprétation des contenus iXi au sein
 Il simplifie sont intégration et son utilisation.
 ### Prérequis technique conseillé
 - 📦 Unity (6000.3.8f1)
-  - Universal Render Pipeline (17.3.0) (Conversion des textures GLTF)
+  - Universal Render Pipeline (17.3.0) > Création de textures
   - Unity glTFast (6.14.1) > Import de fichiers 3D au format GLTF/GLB
   - KTX for Unity (3.6.3) > Import des textures GLTF/GLB
   - Newtonsoft Json > Serialisation / Déserialisation Json
   - Sentis (2.5.0) > Processeur de voix (ONNX / IA)
   - SharpZipLib (1.4.1) > Import de fichier ZIP
-- 📁iXi-CODE (Code source C# pour unity)
+- 🗃️ iXi-CODE (Code source C# pour unity)  
