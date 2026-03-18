@@ -17,7 +17,7 @@ Les créateurs de contenus, peuvent simplement utiliser iXiMAKER "mini" pour gé
 > ℹ️ Vous pouvez [télécharger la version gratuite d'iXiWORK ici](https://ixiverse.com)👈
 ## Mode développeur
 Le code source pour Unity 3D gère l'interprétation des contenus iXi au sein d'Unity 3D.  
-Il permet de simplifier l'utilisation 
+Il simplifie sont intégration et son utilisation.
 ### Prérequis technique conseillé
 - Unity (6000.3.8f1)
   - Universal Render Pipeline (17.3.0) (Conversion des textures GLTF)
